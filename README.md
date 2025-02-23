@@ -1,3 +1,6 @@
+# Preview
+[via Vercel](https://qr-code-component-plum-three.vercel.app)
+
 # Using the Figma design file
 
 Using this design file will help you practice building projects in the same way professionals do. Seeing the details in the design will help you improve your accuracy and build projects faster.
