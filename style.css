@@ -57,18 +57,18 @@ img.qr-code {
     flex-flow: column nowrap;
     align-items: center;
     justify-content: space-between;
+}
 
-    p {
-        text-align: center;
-        color: var(--slate500);
-    }
+.description p {
+    text-align: center;
+    color: var(--slate500);
+}
 
-    p:nth-child(1) {
-        color: var(--slate900);
-        font-weight: bold;
-        font-size: 22px;
-        letter-spacing: 0px;
-        line-height: 120%;
-        margin-bottom: var(--spacing200);
-    }
+.description p:first-child {
+    color: var(--slate900);
+    font-weight: bold;
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 120%;
+    margin-bottom: var(--spacing200);
 }
