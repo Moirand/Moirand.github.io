@@ -59,13 +59,13 @@ img.qr-code {
     justify-content: space-between;
     text-align: center;
     color: var(--slate500);
-}
 
-.description h1 {
-    color: var(--slate900);
-    font-weight: bold;
-    font-size: 22px;
-    letter-spacing: 0px;
-    line-height: 120%;
-    margin-bottom: var(--spacing200);
+    & h1 {
+        color: var(--slate900);
+        font-weight: bold;
+        font-size: 22px;
+        letter-spacing: 0px;
+        line-height: 120%;
+        margin-bottom: var(--spacing200);
+    }
 }
