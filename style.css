@@ -57,14 +57,11 @@ img.qr-code {
     flex-flow: column nowrap;
     align-items: center;
     justify-content: space-between;
-}
-
-.description p {
     text-align: center;
     color: var(--slate500);
 }
 
-.description p:first-child {
+.description h1 {
     color: var(--slate900);
     font-weight: bold;
     font-size: 22px;
